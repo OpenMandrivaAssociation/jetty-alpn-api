@@ -7,7 +7,7 @@ Release:        3.1
 Summary:        Jetty ALPN API
 Group:          Development/Java
 License:        ASL 2.0 and EPL
-URL:            http://www.eclipse.org/jetty
+URL:            https://www.eclipse.org/jetty
 BuildArch:      noarch
 
 Source0:        http://git.eclipse.org/c/jetty/org.eclipse.jetty.alpn.git/snapshot/alpn-api-%{version}.%{addver}.tar.bz2
